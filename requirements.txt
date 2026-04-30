@@ -1,0 +1,10 @@
+
+### 2. Datei: `instagram_agent_crew.py`
+(Dein aktuelles `insta_10hour_proof.py` – sauber aufbereitet und umbenannt)
+
+Kopiere den gesamten Code aus deinem laufenden Skript (oder ich kann ihn dir noch einmal exakt geben – sag einfach „Code bitte“).
+
+### 3. Datei: `requirements.txt`
+```txt
+crewai
+ollama
