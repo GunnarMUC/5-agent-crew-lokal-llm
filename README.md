@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)n
+
 # Instagram 5-Agenten CrewAI – Lokal & Autonom 🚀
 
 [![CrewAI](https://img.shields.io/badge/CrewAI-0.60.0-brightgreen)](https://crewai.com) [![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)](https://ollama.com) [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
