@@ -1,4 +1,5 @@
 
+[![CI](https://github.com/GunnarMUC/5-agent-crew-lokal-llm/actions/workflows/ci.yml/badge.svg)](https://github.com/GunnarMUC/5-agent-crew-lokal-llm/actions)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)n
 
 # Instagram 5-Agenten CrewAI – Lokal & Autonom 🚀
