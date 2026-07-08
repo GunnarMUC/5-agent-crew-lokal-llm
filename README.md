@@ -1,10 +1,8 @@
-
 [![CI](https://github.com/GunnarMUC/5-agent-crew-lokal-llm/actions/workflows/ci.yml/badge.svg)](https://github.com/GunnarMUC/5-agent-crew-lokal-llm/actions)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)n
 
 # Instagram 5-Agenten CrewAI – Lokal & Autonom 🚀
 
-[![CrewAI](https://img.shields.io/badge/CrewAI-0.60.0-brightgreen)](https://crewai.com) [![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)](https://ollama.com) [![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 
 **Autonomes 5-Agenten-Team für 24/7 Instagram-Content** – **100% lokal** mit CrewAI + Ollama (Qwen2.5 14B). Keine Cloud, keine Kosten, datenschutzkonform. Läuft stabil auf Apple Silicon (24GB+ RAM).
 
